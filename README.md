@@ -2,8 +2,7 @@
 
 <img align="right" alt="Joao-profile" height="150" style="border-radius:50px;" src="https://i.ibb.co/PNXYQ6g/a230dcdf4ca9d238b111483b994de1d1.jpg" alt="Joao_Profile" border="0">
 
-- 🌱 Atualmente estudo na Gama Academy XP#41 💚👊 para se tornar um Dev Fullstack 
-</div><br>
+- 🌱 Atualmente sou estudante cursando Técnologo em Análise e Desenvolvimento de Sistemas</div><br>
 <div align="left">
   <a href="https://github.com/DevJohnny1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJohnny1&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
