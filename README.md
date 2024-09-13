@@ -19,7 +19,8 @@
   <h2 align="left">Estou aprendendo</h2>
   <div align="center"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-          
+  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+            
   <!--
   <img align="center" alt="" height="30" width="40" src="">
   <img align="center" alt="" height="30" width="40" src="">
